@@ -1,0 +1,9 @@
+{
+	"ip":"LifeCat.aternos.me",
+	"port": "37752",
+	"name": "Server",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
